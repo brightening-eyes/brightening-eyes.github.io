@@ -21,7 +21,7 @@
 title: Amir Ramezani
 email: amir.ramezani1370@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-I'm Amir Ramezani, a backend and AIdeveloper. I love operating systems and low level programming as well.
+    I'm Amir Ramezani, a backend and AI developer. I love operating systems and low level programming as well.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://brightening-eyes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
